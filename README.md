@@ -1,6 +1,6 @@
 # flutter_codelab_ui
 
-A new Flutter application.
+A new Flutter application. Implemented Chat UI with animation from google codelab.
 
 ## Getting Started
 
